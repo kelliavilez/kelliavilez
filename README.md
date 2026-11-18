@@ -14,7 +14,6 @@
 Software Engineering student and developer intern with hands-on experience in Python, SQL, Spark, ETL processes and Power BI, built through university projects and academic presentations at the DataLab research seedbed. I enjoy cleaning, extracting and analyzing data, and turning the results into clear dashboards and charts. At Rockwell Automation I work in large Agile teams, covering development, QA, requirements analysis and feature demos. Google Cloud certified (Cloud Computing Foundations Certificate and four skill badges).
 
 📍 Medellín, Colombia
-🎓 Completing my degree on November 28, 2026 (graduation ceremony expected March 2027)
 🌍 Spanish (native) | English (B2)
 
 ## 🧠 Areas of Interest
